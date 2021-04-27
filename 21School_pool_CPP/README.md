@@ -28,4 +28,4 @@ Module 07
 C++ templates
 
 Module 08
-Templated containers, iterators, algorithms
+Templated containers, iterators, algorithms.
