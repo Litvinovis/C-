@@ -1,2 +1,3 @@
-# C++
-Repo for C++ project in school 21 (ecole 42)
+# <p align=center> C++ </p>
+
+Different C++ projects
